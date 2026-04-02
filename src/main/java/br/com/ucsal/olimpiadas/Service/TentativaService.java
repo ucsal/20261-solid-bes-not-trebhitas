@@ -1,7 +1,12 @@
-package Service;
+package br.com.ucsal.olimpiadas.Service;
 
-import Repositorio.*;
-import model.*;
+import br.com.ucsal.olimpiadas.Repositorio.ParticipanteRepository;
+import br.com.ucsal.olimpiadas.Repositorio.ProvaRepository;
+import br.com.ucsal.olimpiadas.Repositorio.QuestaoRepository;
+import br.com.ucsal.olimpiadas.Repositorio.TentativaRepository;
+import br.com.ucsal.olimpiadas.model.Questao;
+import br.com.ucsal.olimpiadas.model.Resposta;
+import br.com.ucsal.olimpiadas.model.Tentativa;
 
 import java.util.List;
 

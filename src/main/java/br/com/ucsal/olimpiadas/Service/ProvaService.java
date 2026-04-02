@@ -1,8 +1,7 @@
-package Service;
+package br.com.ucsal.olimpiadas.Service;
 
-import Repositorio.ProvaRepository;
-import model.Participante;
-import model.Prova;
+import br.com.ucsal.olimpiadas.Repositorio.ProvaRepository;
+import br.com.ucsal.olimpiadas.model.Prova;
 
 import java.util.List;
 

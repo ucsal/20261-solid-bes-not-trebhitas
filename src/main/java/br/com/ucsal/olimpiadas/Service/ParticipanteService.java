@@ -1,7 +1,7 @@
-package Service;
+package br.com.ucsal.olimpiadas.Service;
 
-import Repositorio.ParticipanteRepository;
-import model.Participante;
+import br.com.ucsal.olimpiadas.Repositorio.ParticipanteRepository;
+import br.com.ucsal.olimpiadas.model.Participante;
 import java.util.List;
 
 public class ParticipanteService {
