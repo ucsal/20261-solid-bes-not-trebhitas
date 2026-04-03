@@ -1,4 +1,4 @@
-package model;
+package br.com.ucsal.olimpiadas.model;
 
 import java.util.ArrayList;
 import java.util.List;

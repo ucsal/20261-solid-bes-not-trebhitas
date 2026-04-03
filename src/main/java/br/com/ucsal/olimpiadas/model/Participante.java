@@ -1,4 +1,4 @@
-package model;
+package br.com.ucsal.olimpiadas.model;
 
 public class Participante {
 	private long id;
